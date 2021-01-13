@@ -1,8 +1,6 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-h
-8src/main/java/ru/example/sweater/GreetingController.java,e\a\ea11d12ef2a3a6a0231efbe74d2c5ffd4585d35b
 a
 1src/main/java/ru/example/sweater/Application.java,7\f\7ffeb9617671fdd5b33997cc2bd675944d5a2043
 d
@@ -13,3 +11,21 @@ n
 >src/main/java/ru/example/sweater/config/WebSecurityConfig.java,3\9\39d6365418921a99acec95fe6f275bee520416e4
 f
 6src/main/java/ru/example/sweater/config/MvcConfig.java,8\e\8e6f49b2a8dcae08ab36a9cbab1116a3f6daec6d
+Y
+)src/main/resources/application.properties,0\6\06f65155ec73600b9fc5c4dc2883d4bb84d8e284
+U
+%target/classes/application.properties,b\b\bb173f9557479135e0f1bcd9c6c5f7b4ae5f77e8
+Z
+*target/classes/templates/greeting.mustache,f\2\f2ce48f90a0e69999e095d33243ba42e59e7d276
+o
+?src/main/java/ru/example/sweater/controller/MainController.java,d\8\d8c573433f9afecefd86fa2b514f1cfabc930251
+a
+1src/main/java/ru/example/sweater/domain/Role.java,7\a\7a3834a88fe80da9c1eb1b683bd9d6c1dfcd9c78
+a
+1src/main/java/ru/example/sweater/domain/User.java,c\5\c53cef2306460d0d941aad36a51669fa0ac53ca8
+g
+7src/main/java/ru/example/sweater/repos/MessageRepo.java,b\4\b4fbd089face29b874c5a37834868418829b1979
+d
+4src/main/java/ru/example/sweater/repos/UserRepo.java,6\7\67698309776483d03acb2c54b3c6a8c1fb9d19e7
+w
+Gsrc/main/java/ru/example/sweater/controller/RegistrationController.java,5\b\5b684936b1b82c81a9b869a46161f7f59bafc7f8
