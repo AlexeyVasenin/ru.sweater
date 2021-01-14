@@ -11,8 +11,6 @@ n
 >src/main/java/ru/example/sweater/config/WebSecurityConfig.java,3\9\39d6365418921a99acec95fe6f275bee520416e4
 f
 6src/main/java/ru/example/sweater/config/MvcConfig.java,8\e\8e6f49b2a8dcae08ab36a9cbab1116a3f6daec6d
-Y
-)src/main/resources/application.properties,0\6\06f65155ec73600b9fc5c4dc2883d4bb84d8e284
 U
 %target/classes/application.properties,b\b\bb173f9557479135e0f1bcd9c6c5f7b4ae5f77e8
 Z
